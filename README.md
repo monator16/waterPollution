@@ -2,8 +2,7 @@
 * Project conducted in ML/AL club, DeepDaiv
 * May, 2023 - June, 2023
 ## Introduction
-![process](https://github.com/monator16/handPose_recognition/blob/main/image.png)
-
+![process](https://github.com/monator16/waterPollution/blob/main/process.jpg)
 
 ## Report
 [노션발표자료](https://determined-biplane-ee5.notion.site/GRU-18f6cfffb7eb4ace9502d99897aebfdb?pvs=4)
